@@ -1,0 +1,7 @@
+Category,Value,Count
+User Activity,Rahul,4
+User Activity,Ankit,2
+User Activity,Meera,2
+Error,failed login (Invalid Password),3
+Error,failed login (Account Locked),1
+Warning,session timeout,1
